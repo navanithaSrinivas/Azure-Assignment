@@ -79,6 +79,6 @@ Azure-AIML-Assignment/
 
 ## Submitted By
 
-**ANANYA RAO CN**
+**NAVANITHA S**
 
-**USN: 1JB24AI003**
+**USN: 1JB24AI031**
