@@ -2,9 +2,9 @@
 
 ## Student Information
 
-**Name:** ANANYA RAO CN
+**Name:** NAVANITHA S
 
-**USN:** 1JB24AI003
+**USN:** 1JB24AI031
 
 **Branch:** Artificial Intelligence and Machine Learning (AIML)
 
